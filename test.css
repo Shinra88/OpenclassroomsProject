@@ -1,0 +1,173 @@
+#conteneur
+{
+	display: flex;
+	justify-content: center;
+}
+
+.element
+{
+	flex: 1;
+}
+
+.element:nth-child(1)
+{
+	background-color: none;
+		margin-left: -150px;
+	margin-right: -100px;
+}
+.element:nth-child(2)
+{
+	background-color: none;
+}
+.element:nth-child(3)
+{
+	background-color: none;
+}
+.element:nth-child(4)
+{
+	background-color: none;
+}
+
+
+#conteneur1
+{
+	display: flex;
+	
+	
+}
+
+.element1
+{
+flex: 1;
+}
+
+.element1:nth-child(1)
+{
+	background-color: none;
+			margin-left: -150px;
+	margin-right: -300px;
+}
+.element1:nth-child(2)
+{
+	background-color: none;
+
+}
+
+#conteneur2
+{
+	display: flex;
+}
+
+.element2
+{
+flex: 1;
+}
+
+.element2:nth-child(1)
+{
+	background-color: none;
+			margin-left: -150px;
+	
+}
+.element2:nth-child(2)
+{
+	background-color: none;
+	margin-left: -1025px;
+	
+}
+
+#conteneur3
+{
+	display: flex;
+
+}
+.element3
+{
+
+}
+
+
+.element3:nth-child(1)
+{
+	background-color: none;
+			margin-left: -150px;
+	margin-right: -100px;
+}
+.element3:nth-child(2)
+{
+	background-color: none;
+}
+
+
+
+html
+{
+font-family: "Comic Sans MS";
+}
+
+li
+{
+		color: #8000FF;
+		font-size: 1.8em;
+		font-weight: bold;
+		text-shadow: 6px 6px 6px black;
+}
+.introduction
+{
+		color: red;
+}
+#resumé
+{
+	text-align: justify;
+	font-size: 1.8em;
+	color: #FE2E2E;
+	text-shadow: 6px 6px 6px black;
+}
+.imageflottante
+{
+	float: left;
+}
+.sommaire
+{
+	font-size: 1.8em;
+	font-weight:  bold;
+	text-decoration: underline;
+	color:  #1C1C1C;
+	text-shadow: 6px 6px 6px black;
+}
+h1
+{
+	font-weight: bold;
+	font-size: 3.5em;
+	text-decoration: underline;
+	color: #8A0808;
+	text-shadow: 6px 6px 6px black;
+
+}
+h2
+{
+	font-size: 2.8em;
+	text-decoration: underline;
+	font-weight: bold;
+	color: #585858;
+	text-shadow: 6px 6px 6px black;
+	box-shadow: 6px 6px 6px black;
+}
+a:hover
+
+{
+font-weight: bold;
+}
+
+
+
+
+body
+{
+	background-image: url("fond.jpg");
+	
+}
+img src="frise.png"
+{
+box-shadow: 10px 10px 10px black;
+}
